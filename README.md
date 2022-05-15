@@ -1,7 +1,7 @@
 ![](https://github.com/avonces/avonces/blob/main/banner-fog.png)
 
 # Hey!
-I'm Henrik and from Berlin. <br />
+I'm Henrik and I'm from Berlin. <br />
 In my free time I like to code or make music.
 
 ## Interests
