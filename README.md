@@ -20,10 +20,10 @@ I also enjoy watching movies and playing video games c:
 
 ### Languages: 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=fcd132)
-![](https://img.shields.io/badge/Code-Java_(barely)-informational?style=flat&logo=Java&logoColor=white&color=fcd132)
+![](https://img.shields.io/badge/Code-Java_(not_a_lot)-informational?style=flat&logo=Java&logoColor=white&color=fcd132)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=HTML5&logoColor=white&color=fcd132)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=fcd132)
-![](https://img.shields.io/badge/Code-Javascript_(barely)-informational?style=flat&logo=JavaScript&logoColor=white&color=fcd132)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=fcd132)
 
 ### Editing and other stuff: 
 ![](https://img.shields.io/badge/Software-GIMP-informational?style=flat&logo=GIMP&logoColor=white&color=fcd132)
