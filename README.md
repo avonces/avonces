@@ -31,9 +31,9 @@ I also enjoy watching movies and playing video games c:
 ![](https://img.shields.io/badge/Software-DaVinci_Resolve-informational?style=flat&logo=none&logoColor=white&color=fcd132)
 
 ## Overview
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schmandry&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avonces&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Stats
-![Schmandry's GitHub stats](https://github-readme-stats.vercel.app/api?username=schmandry&show_icons=true&theme=great-gatsby)
+![Schmandry's GitHub stats](https://github-readme-stats.vercel.app/api?username=avonces&show_icons=true&theme=great-gatsby)
 <br /><br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=schmandry&repo=schmandry&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avonces&repo=avonces&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
